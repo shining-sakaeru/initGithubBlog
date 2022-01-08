@@ -3,8 +3,8 @@ layout: post
 current: post
 cover: assets/built/images/jekyll-logo.png
 navigation: True
-title: Jekyll 강좌(0) - Jekyll Start
-date: 2022-01-01 23:31:00
+title: Jekyll 따라하기(0) - Jekyll Start
+date: 2021-01-01 23:31:00
 tags: [jekyll]
 class: post-template
 subclass: "post tag-python"
