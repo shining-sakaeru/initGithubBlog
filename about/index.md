@@ -9,4 +9,5 @@ subclass: "post page"
 ---
 
 The engineer's playground.
-Enabled build and deploy automation.
+
+2022-01-08 Enabled build and deploy automation with Travis CI
