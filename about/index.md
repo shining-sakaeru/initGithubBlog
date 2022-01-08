@@ -8,4 +8,5 @@ class: page-template
 subclass: "post page"
 ---
 
-The engineer's playground
+The engineer's playground.
+Enabled build and deploy automation.
