@@ -27,3 +27,7 @@ cooking:
   name: cooking
   description: False
   cover: assets/built/images/background-frontend.jpg
+web:
+  name: web
+  description: False
+  cover: assets/built/images/background-frontend.jpg
